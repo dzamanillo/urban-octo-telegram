@@ -1,7 +1,19 @@
 # Horiseon Social Solution Services
 
-## Link to Project:
+Horiseon Social Solution Services is determined to boost your products online presents to its fullest potential. A one stop shop for search engine optimization, online reputation management and social media marketing.
+
+This Horiseon landing page has been optimized for accesibility.
+
+## Links
+
+#### Website:
 
 https://dzamanillo.github.io/urban-octo-telegram-dz/
 
-![App Screenshot](./images/Screeen Shot 2021-06-09 at 1.25.55 PM.png)
+#### Github:
+
+https://github.com/dzamanillo/urban-octo-telegram-dz
+
+## Screenshots
+
+![Image of Meeting](https://dzamanillo.github.io/urban-octo-telegram-dz/assets/images/digital-marketing-meeting.jpg)
