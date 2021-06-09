@@ -16,4 +16,4 @@ https://github.com/dzamanillo/urban-octo-telegram-dz
 
 ## Screenshots
 
-![Image of Meeting](https://dzamanillo.github.io/urban-octo-telegram-dz/assets/images/digital-marketing-meeting.jpg)
+![Image of Meeting](./assets/images/screenshot.png)
