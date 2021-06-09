@@ -1,5 +1,7 @@
-# Code Refactor Starter Code
+# Horiseon Social Solution Services
 
-URL: https://dzamanillo.github.io/urban-octo-telegram-dz/
+## Link to Project:
 
-Optimized landing page for Horiseon
+https://dzamanillo.github.io/urban-octo-telegram-dz/
+
+![App Screenshot](./images/Screeen Shot 2021-06-09 at 1.25.55 PM.png)
