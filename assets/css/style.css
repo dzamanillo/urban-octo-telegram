@@ -1,3 +1,4 @@
+/* Doc Styles Start */
 * {
   box-sizing: border-box;
   padding: 0;
@@ -16,6 +17,7 @@ a {
 p {
   font-size: 16px;
 }
+/* Doc Styles End */
 
 /* Utility Start*/
 .float-left {
@@ -81,7 +83,7 @@ header nav ul li {
 }
 /* Hero Styling End */
 
-/* Content Styling Start */
+/* Content/Main Styling Start */
 .content {
   width: 75%;
   display: inline-block;
@@ -104,9 +106,9 @@ header nav ul li {
   margin-bottom: 20px;
   font-size: 36px;
 }
-/* Content Styling End */
+/* Content/Main Styling End */
 
-/* Benefits Styling Start */
+/* Benefits/Aside Styling Start */
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -132,7 +134,7 @@ header nav ul li {
   margin: 10px auto;
   max-width: 150px;
 }
-/* Benefits Styling End */
+/* Benefits/Aside Styling End */
 
 /* Footer Styling Start */
 footer {
